@@ -1,5 +1,5 @@
-.vercel
+node_modules/
 .env
 .env.local
-node_modules
-.pnpm-store
+.env.*.local
+.DS_Store
