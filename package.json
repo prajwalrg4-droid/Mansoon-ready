@@ -7,7 +7,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@google/generative-ai": "^0.24.1"
+    "@google/genai": "^2.11.0"
   },
   "scripts": {
     "dev": "node app.js"
