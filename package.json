@@ -10,6 +10,6 @@
     "@google/genai": "^2.11.0"
   },
   "scripts": {
-    "dev": "node app.js"
+    "build": "node --check api/generate.js && node --check app.js"
   }
 }
